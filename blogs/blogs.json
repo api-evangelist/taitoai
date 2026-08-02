@@ -1,0 +1,21 @@
+{
+  "repo": "taitoai",
+  "feeds": [
+    {
+      "source": "https://taito.ai/blog/rss.xml",
+      "feed_url": "https://taito.ai/blog/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://taito.ai/pricing",
+      "feed_url": "https://taito.ai/blog/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 50,
+  "fetched": "2026-08-01T15:49:00Z"
+}

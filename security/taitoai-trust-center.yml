@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+source: https://trust.taito.ai/
+url: https://trust.taito.ai/
+platform: Vanta Trust Center
+certifications:
+- ISO 27001
+compliance:
+- GDPR
+controls:
+- Encryption in transit and at rest
+- Activity logs / audit trail
+- Field-level permissions
+evidence:
+- source: https://trust.taito.ai/
+  keywords: [trust center, security, compliance]
+- source: https://taito.ai/llms.txt
+  keywords: [iso 27001 certified, gdpr compliant]
+- source: https://taito.ai/dpa
+  keywords: [data processing addendum]

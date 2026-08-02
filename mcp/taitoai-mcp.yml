@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+status: published
+source: https://taito.ai/agents
+notes: >-
+  Taito.ai publishes a Model Context Protocol integration as part of its "People
+  agents" product. Per the product docs and llms.txt, every platform action is
+  available over MCP, and the server can be connected to Claude web, Claude Code,
+  or any MCP-compatible host. The MCP connection is authenticated per Taito.ai
+  workspace/account; no anonymous public endpoint URL is published. Tool surface
+  is not enumerated in public docs, so no candidate tool list is derived here.
+server:
+  name: taito-ai
+  transport: remote
+  vendor_hosted: true
+  connect_via:
+  - Claude (web)
+  - Claude Code
+  - any MCP-compatible host
+  auth: per-workspace account connection
+  url: null
+capabilities:
+  scope: >-
+    Every Taito.ai platform action is exposed over MCP for automation over people
+    data (people directory, time off & attendance, documents, performance,
+    onboarding, payroll reporting).
+docs:
+- https://taito.ai/agents
+- https://taito.ai/llms.txt

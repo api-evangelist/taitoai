@@ -1,7 +1,29 @@
 aid: taitoai
 name: Taito.ai
-description: 'Taito.ai is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  Taito.ai is an AI-native people operations (HRIS) platform headquartered in
+  Helsinki, Finland, built for teams scaling from roughly 30 to 300 employees.
+  It unifies the employee lifecycle in one system — a people directory, time-off
+  and attendance, documents and eSignatures, and performance reviews — alongside
+  AI "people agents" that handle onboarding, reminders, payroll reporting, and
+  policy questions on demand from Slack, Claude, or any MCP-compatible tool.
+  Every platform action is exposed over the Model Context Protocol rather than a
+  public REST API. Pricing is a single per-seat tier covering both the people-ops
+  and performance modules. The company is ISO 27001 certified and GDPR compliant,
+  publishing audit reports on a Vanta-hosted Trust Center, and raised a $2.7M seed
+  round led by Accel.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://taito.ai/og-default.jpg
 url: https://raw.githubusercontent.com/api-evangelist/taitoai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,10 +33,20 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Ai
+- HR
+- People Operations
+- HRIS
+- Performance Management
+- Employee Experience
+- AI Agents
+- MCP
+- SaaS
+- GDPR
+- ISO 27001
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +56,30 @@ maintainers:
 common:
 - type: Website
   url: https://taito.ai/
+- type: Pricing
+  url: https://taito.ai/pricing
+- type: Blog
+  url: https://taito.ai/blog
+- type: About
+  url: https://taito.ai/company
+- type: TermsOfService
+  url: https://taito.ai/terms
+- type: PrivacyPolicy
+  url: https://taito.ai/privacy
+- type: TrustCenter
+  url: https://trust.taito.ai/
+- type: Compliance
+  url: https://trust.taito.ai/
+- type: MCPServer
+  url: mcp/taitoai-mcp.yml
+- type: Conformance
+  url: conformance/taitoai-conformance.yml
+- type: DomainSecurity
+  url: security/taitoai-domain-security.yml
+- type: LLMsTxt
+  url: llms/taitoai-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1

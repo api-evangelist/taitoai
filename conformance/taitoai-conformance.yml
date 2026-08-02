@@ -1,0 +1,23 @@
+generated: '2026-07-21'
+method: searched
+source: https://trust.taito.ai/
+docs:
+- https://trust.taito.ai/
+- https://taito.ai/llms.txt
+standards:
+- id: iso-27001
+  conforms: true
+  evidence: >-
+    ISO 27001 certified; audit reports published on the Vanta-hosted Trust Center
+    at trust.taito.ai. Stated in llms.txt and product security copy.
+- id: gdpr
+  conforms: true
+  evidence: >-
+    GDPR compliant "from day one"; Data Processing Addendum published at
+    https://taito.ai/dpa. Stated in llms.txt.
+- id: oauth2
+  conforms: false
+  evidence: No public OpenAPI or documented OAuth2 authorization surface.
+- id: rfc9457-problem-details
+  conforms: false
+  evidence: No public API specification published.

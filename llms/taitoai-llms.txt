@@ -1,0 +1,76 @@
+# Taito.ai
+
+> Taito.ai is a people operations system that automates time-off, attendance, documents, and performance, so a small team can support a growing one. Built for teams scaling from 30 to 300 employees. ISO 27001 certified and GDPR compliant. Pricing is one tier, per-seat, with both the people-ops and performance modules included.
+
+## Usage
+
+This content is published for AI agents and language models. Citations and quotations are welcome with attribution to Taito.ai (https://taito.ai). Bulk redistribution requires written permission.
+
+## Product
+
+- [Overview](https://taito.ai/): Run people ops on autopilot — onboarding, time off, reviews, and compliance handled in one product.
+- [People directory](https://taito.ai/people-directory): Single source of truth for employee data, org chart, and custom records.
+- [Time off & attendance](https://taito.ai/time-off-attendance): Multi-region time-off and attendance policies with pre-payroll reports.
+- [Documents](https://taito.ai/documents): Document workflows and eSignatures with retention controls.
+- [Performance](https://taito.ai/performance): Performance cycles, calibration, and AI-assisted attributes — included in the base plan.
+- [AI / People agents](https://taito.ai/agents): Slack agent, MCP integration, and no-code workflows over your people data.
+
+## Solutions
+
+- [For founders](https://taito.ai/founders): Scale people ops without scaling the people-ops team.
+- [For people leaders](https://taito.ai/people-leaders): Run feedback and performance without spreadsheets or stitched tools.
+- [For operators](https://taito.ai/operators): One system for the whole employee lifecycle — audit-ready records, scheduled reports, regional compliance.
+
+## Pricing
+
+- [Pricing](https://taito.ai/pricing): €10/seat/month monthly, €8/seat/month annual. One tier — people-ops and performance modules included, no add-ons. Not an early-adopter discount; this is the price.
+
+## Company
+
+- [Company](https://taito.ai/company): About Taito.ai and what we're building.
+- [Customers](https://taito.ai/customers): Teams using Taito.ai today.
+- [Brand](https://taito.ai/brand): Brand guidelines, logos, and downloadable assets.
+
+## Resources
+
+- [Blog](https://taito.ai/blog): Guides on performance management, feedback culture, and AI in HR.
+- [Full-text reference](https://taito.ai/llms-full.txt): Comprehensive single-file reference for AI agents — product, pricing, compliance, and all FAQ Q&A pairs.
+
+### Performance and reviews
+
+- [From performance management to performance enablement](https://taito.ai/blog/from-performance-management-to-performance-enablement): Why traditional performance management is being replaced by continuous, AI-assisted enablement.
+- [Performance review calibration](https://taito.ai/blog/performance-review-calibration): Running fair, defensible calibration sessions across teams.
+- [How to use AI in performance reviews](https://taito.ai/blog/how-to-use-ai-in-performance-reviews): Where AI helps (synthesis, draft generation, calibration) and where it doesn't (judgment, accountability).
+- [Skills and competencies framework — how to build](https://taito.ai/blog/skills-competencies-framework-how-to-build): A step-by-step approach to building a leveling and skills framework.
+
+### Feedback culture and 1:1s
+
+- [How to build a high-performance feedback culture](https://taito.ai/blog/how-to-build-a-high-performance-feedback-culture): A practical playbook for continuous feedback inside small and mid-sized teams.
+- [How to structure effective 1-on-1 meetings](https://taito.ai/blog/how-to-structure-effective-1-on-1-meetings): Agenda templates and prep flows for managers running recurring 1:1s.
+- [Continuous feedback](https://taito.ai/blog/continuous-feedback): What continuous feedback is, why it works, and how to roll it out without burning out managers.
+- [Top continuous-feedback tools](https://taito.ai/blog/top-10-best-tools-for-continuous-employee-feedback): A comparison of continuous-feedback tools for modern teams.
+
+### AI in HR
+
+- [AI in HR: use cases and tools (2025)](https://taito.ai/blog/ai-in-hr-use-cases-tools-2025): Concrete AI use cases across the employee lifecycle, with tooling tradeoffs.
+
+### Alternatives and comparisons
+
+- [BambooHR alternatives](https://taito.ai/blog/bamboohr-alternatives): The top 10 BambooHR alternatives for modern HR teams.
+- [HiBob alternatives](https://taito.ai/blog/hibob-alternatives): A comparison of HiBob alternatives for growing companies.
+- [Personio alternatives](https://taito.ai/blog/personio-alternatives): How Personio compares to modern people-ops platforms.
+- [CultureAmp competitors and alternatives](https://taito.ai/blog/cultureamp-competitors-and-alternatives): How CultureAmp compares to modern, AI-native performance platforms.
+- [Lattice competitors and alternatives](https://taito.ai/blog/lattice-competitors-and-alternatives): When Lattice fits — and when an AI-native alternative is the better choice.
+- [Leapsome competitors and alternatives](https://taito.ai/blog/leapsome-competitors-and-alternatives): A breakdown of Leapsome alternatives for modern, AI-augmented HR teams.
+
+### Startup guides
+
+- [Best HRIS for startups](https://taito.ai/blog/best-hris-for-startups): How to pick an HRIS that scales from 20 to 200 employees without re-platforming.
+- [Top AI tools for HR teams (2026)](https://taito.ai/blog/what-are-the-top-9-ai-tools-for-hr-teams-in-2026): Which AI tools are genuinely useful for HR teams today, and which to skip.
+- [Should you build or buy HR tools as a startup?](https://taito.ai/blog/should-you-build-or-buy-hr-tools-startup): Build-vs-buy tradeoffs for early-stage HR tooling decisions.
+
+## Legal
+
+- [Privacy policy](https://taito.ai/privacy)
+- [Terms of service](https://taito.ai/terms)
+- [Data processing addendum](https://taito.ai/dpa)
