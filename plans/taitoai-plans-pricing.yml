@@ -1,0 +1,40 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://taito.ai/pricing
+sources:
+- https://taito.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-seat
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+  managed_tier: Monthly
+published: true
+note: Single-tier per-seat SaaS HR product; 14-day free trial, no card required. Annual billing saves
+  20%. MCP/integrations included but no separate API pricing stated.
+plan_count: 2
+currency: EUR
+plans:
+- name: Annual
+  price_text: €8 / seat / month
+  price: 8
+  currency: EUR
+  period: month
+  unit: seat
+  included_quota: 'Everything included: People directory, time-off and attendance, docs and eSign, pre-payroll
+    reporting, people agents, performance'
+- name: Monthly
+  price_text: €10 / seat / month
+  price: 10
+  currency: EUR
+  period: month
+  unit: seat
+  included_quota: Everything included
+rate_limit_statements:
+- No minimum. Per-seat pricing scales from one to thousands.
